@@ -51,4 +51,4 @@ The COM interface declarations, and the window-moving approach behind the swap, 
 
 ## License
 
-MIT. See [LICENSE](LICENSE), which also includes the MScholtes/VirtualDesktop license notice.
+MIT. See [LICENSE](LICENSE). The MScholtes/VirtualDesktop license notice is in [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
